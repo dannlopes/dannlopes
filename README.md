@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-**dannlopes/dannlopes** é um repositório ✨ _especial_ ✨ porque seu `README.md` aparece diretamente no meu perfil do GitHub.
+**dannlopes/dannlopes**
 
 Aqui vão algumas informações sobre mim:
 
